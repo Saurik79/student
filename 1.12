@@ -1,3 +1,0 @@
-M EQU 30
-N EQU 50
-    matrix  db m dup (10 dup (-1), n-10 dup (0)) 
